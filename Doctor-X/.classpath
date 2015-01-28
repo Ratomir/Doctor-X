@@ -2,5 +2,15 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/lf/synthetica.jar"/>
+	<classpathentry kind="lib" path="lib/lf/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="lib/lf/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="lib/lf/syntheticaBlueSteel.jar"/>
+	<classpathentry kind="lib" path="lib/lf/syntheticaMauveMetallic.jar"/>
+	<classpathentry kind="lib" path="lib/lf/syntheticaOrangeMetallic.jar"/>
+	<classpathentry kind="lib" path="lib/lf/syntheticaSkyMetallic.jar"/>
+	<classpathentry kind="lib" path="lib/lf/syntheticaWhiteVision.jar"/>
+	<classpathentry kind="lib" path="lib/javadocking.jar"/>
+	<classpathentry kind="lib" path="lib/Localization.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
