@@ -19,6 +19,7 @@ public class Main
 	    }
 		
 		System.out.println("sad");
+		System.out.println("sadsad");
 		
 //		//Instanciranje glavnog modela Application koji se proslijedjuje View-u i Controlleru.
 //		Application model = new Application();
