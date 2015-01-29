@@ -18,6 +18,8 @@ public class Main
 	      e.printStackTrace();
 	    }
 		
+		System.out.println("sad");
+		
 //		//Instanciranje glavnog modela Application koji se proslijedjuje View-u i Controlleru.
 //		Application model = new Application();
 //		
