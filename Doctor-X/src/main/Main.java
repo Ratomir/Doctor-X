@@ -26,7 +26,7 @@ public class Main
 //		Instanciranje View-a kome se proslijedjuje Model.
 		View view = new View(model);
 //		
-//		Instanciranje kontrolera
+//		Instanciranje kontrolera Testiranje
 		new Controller(model, view);
 	}
 
