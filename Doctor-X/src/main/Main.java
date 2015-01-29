@@ -29,6 +29,8 @@ public class Main
 //		
 //		//Instanciranje kontrolera
 //		new Controller(model, view);
+		
+		//Ilija was here.
 	}
 
 }
