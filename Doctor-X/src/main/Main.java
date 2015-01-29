@@ -20,13 +20,13 @@ public class Main
 	      e.printStackTrace();
 	    }
 		
-//		//Instanciranje glavnog modela Application koji se proslijedjuje View-u i Controlleru.
+//		Instanciranje glavnog modela Application koji se proslijedjuje View-u i Controlleru.
 		Application model = new Application();
 //		
-//		//Instanciranje View-a kome se proslijedjuje Model.
+//		Instanciranje View-a kome se proslijedjuje Model.
 		View view = new View(model);
 //		
-//		//Instanciranje kontrolera
+//		Instanciranje kontrolera
 		new Controller(model, view);
 	}
 
