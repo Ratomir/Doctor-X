@@ -1,7 +1,9 @@
 package main;
 
 import javax.swing.UIManager;
+import javax.swing.text.View;
 
+import model.Application;
 import de.javasoft.plaf.synthetica.SyntheticaStandardLookAndFeel;
 
 public class Main
@@ -18,19 +20,14 @@ public class Main
 	      e.printStackTrace();
 	    }
 		
-		System.out.println("sasdddd");
-		System.out.println("sadsad");
-		
 //		//Instanciranje glavnog modela Application koji se proslijedjuje View-u i Controlleru.
-//		Application model = new Application();
+		Application model = new Application();
 //		
 //		//Instanciranje View-a kome se proslijedjuje Model.
-//		View view = new View(model);
+		View view = new View(model);
 //		
 //		//Instanciranje kontrolera
-//		new Controller(model, view);
-		
-		//Ilija was here.
+		new Controller(model, view);
 	}
 
 }
