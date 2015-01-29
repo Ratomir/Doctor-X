@@ -18,7 +18,7 @@ public class Main
 	      e.printStackTrace();
 	    }
 		
-		System.out.println("sad");
+		System.out.println("sasdd");
 		System.out.println("sadsad");
 		
 //		//Instanciranje glavnog modela Application koji se proslijedjuje View-u i Controlleru.
