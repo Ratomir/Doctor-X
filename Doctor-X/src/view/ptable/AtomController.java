@@ -15,7 +15,7 @@ import view.View;
 import view.ptable.jtable.CustomTableModel;
 
 /**
- * @author Ratomir
+ * @author Ratomir Vukadin
  *
  */
 public class AtomController extends MouseAdapter

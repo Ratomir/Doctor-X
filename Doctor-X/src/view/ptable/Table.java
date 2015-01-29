@@ -22,7 +22,7 @@ import view.View;
 import view.ptable.jtable.CustomTable;
 
 /**
- * @author Ratomir
+ * @author Ratomir Vukadin
  *
  */
 public class Table extends JFrame

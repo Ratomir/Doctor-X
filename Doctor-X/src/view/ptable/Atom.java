@@ -21,7 +21,7 @@ public class Atom extends JPanel
 {
 
 	/**
-	 * 
+	 * Ratomir
 	 */
 	private static final long serialVersionUID = 1L;
 	

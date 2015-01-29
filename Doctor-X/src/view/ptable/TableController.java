@@ -6,7 +6,7 @@ import java.awt.event.WindowEvent;
 import parser.XMLwriter;
 
 /**
- * @author Ratomir
+ * @author Ratomir Vukadin
  *
  */
 public class TableController extends WindowAdapter
