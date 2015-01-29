@@ -12,7 +12,7 @@ import javax.swing.JViewport;
 import view.Canvas;
 import view.StateEditor;
 import view.View;
-import view.ptable.jtable.CustomTableModel;
+import view.ptable.CustomTableModel;
 
 /**
  * @author Ratomir Vukadin

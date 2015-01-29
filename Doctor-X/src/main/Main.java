@@ -1,8 +1,8 @@
 package main;
 
 import javax.swing.UIManager;
-import javax.swing.text.View;
-
+import view.View;
+import controller.Controller;
 import model.Application;
 import de.javasoft.plaf.synthetica.SyntheticaStandardLookAndFeel;
 
